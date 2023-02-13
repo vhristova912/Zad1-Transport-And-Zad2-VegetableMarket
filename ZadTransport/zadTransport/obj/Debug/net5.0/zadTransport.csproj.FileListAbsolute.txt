@@ -1,0 +1,16 @@
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\bin\Debug\net5.0\zadTransport.exe
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\bin\Debug\net5.0\zadTransport.deps.json
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\bin\Debug\net5.0\zadTransport.runtimeconfig.json
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\bin\Debug\net5.0\zadTransport.runtimeconfig.dev.json
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\bin\Debug\net5.0\zadTransport.dll
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\bin\Debug\net5.0\ref\zadTransport.dll
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\bin\Debug\net5.0\zadTransport.pdb
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\zadTransport.csproj.AssemblyReference.cache
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\zadTransport.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\zadTransport.AssemblyInfoInputs.cache
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\zadTransport.AssemblyInfo.cs
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\zadTransport.csproj.CoreCompileInputs.cache
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\zadTransport.dll
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\ref\zadTransport.dll
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\zadTransport.pdb
+D:\Visual Studio-zadachi\11 klas\Zad1-Transport-And-Zad2-VegetableMarket-main\ZadTransport\zadTransport\obj\Debug\net5.0\zadTransport.genruntimeconfig.cache

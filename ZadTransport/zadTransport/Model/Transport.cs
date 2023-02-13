@@ -21,27 +21,13 @@ namespace zadTransport.Model
         {
 
         }
-        public int Km
-        {
-            get { return this.km; }
-            set
-            {
-                this.km = value;
-            }
-        }
-        public string Time
-        {
-            get { return this.time; }
-            set
-            {
-                this.time = value;
-            }
-        }
+        public int Km { get; set; }
+        public string Time { get; set; }
 
         public double CalculatePrice()
         {
-            double price = 0;
             double startPrice = 0;
+            double price = 0;
             if (this.Km<20)
             {
                 startPrice = 0.70;
@@ -64,7 +50,7 @@ namespace zadTransport.Model
             {
                 price =  0.06;
             }
-            return price+startPrice*this.Km;
+            return startPrice+price*this.Km;
         }
         
     }
