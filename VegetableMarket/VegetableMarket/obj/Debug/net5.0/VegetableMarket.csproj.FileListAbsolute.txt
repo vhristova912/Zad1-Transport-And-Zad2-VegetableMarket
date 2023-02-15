@@ -1,0 +1,16 @@
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\bin\Debug\net5.0\VegetableMarket.exe
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\bin\Debug\net5.0\VegetableMarket.deps.json
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\bin\Debug\net5.0\VegetableMarket.runtimeconfig.json
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\bin\Debug\net5.0\VegetableMarket.runtimeconfig.dev.json
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\bin\Debug\net5.0\VegetableMarket.dll
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\bin\Debug\net5.0\ref\VegetableMarket.dll
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\bin\Debug\net5.0\VegetableMarket.pdb
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\VegetableMarket.csproj.AssemblyReference.cache
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\VegetableMarket.AssemblyInfoInputs.cache
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\VegetableMarket.AssemblyInfo.cs
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\VegetableMarket.csproj.CoreCompileInputs.cache
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\VegetableMarket.dll
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\ref\VegetableMarket.dll
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\VegetableMarket.pdb
+D:\Visual Studio-zadachi\11 klas\VegetableMarket\VegetableMarket\obj\Debug\net5.0\VegetableMarket.genruntimeconfig.cache
